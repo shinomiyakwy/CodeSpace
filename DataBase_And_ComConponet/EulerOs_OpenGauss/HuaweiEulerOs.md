@@ -1,9 +1,6 @@
-1.how can I fix into
-  #updata docker file
-  #down image
 
 
+1.inside docker version
 
 
-
-3.network statement
+2.pull image OpenGauss
