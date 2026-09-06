@@ -1,24 +1,12 @@
-##secondary 
-Fixed funcion：
-1.中英文包的一键切换的前端
-//美团,天眼查
-2.Mihomo Win Version pause update？
+#TestAlwaysWorking
+一.EulerOs Stop Running
 
-#2.描述前端：
-一.
-二.导入Json格式数据库
-三.mihoyo虚空终端
 
-#3.步骤
+#DataSample
+//JS.easy 
+一.美团,天眼查
+二.学工一体化
+
+#Functions:
 一.原始数据的存在、访问
-
-
-##Fistly 
-
-About pickingthe gourp： already four（still） and five（not）
-Monday Monday to check in；
-1/2/4 Afternoon online Checkin 
-8：00/10：00/12：00？ 
-1/2 certificate AS photo
-
-#SQL 触发器 存储过程 highlight
+二.导入Json格式数据库
