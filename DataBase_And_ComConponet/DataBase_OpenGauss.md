@@ -2,6 +2,7 @@
 Fixed funcion：
 1.中英文包的一键切换的前端
 //美团,天眼查
+2.Mihomo Win Version pause update？
 
 #2.描述前端：
 一.
