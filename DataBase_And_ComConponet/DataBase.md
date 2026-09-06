@@ -1,3 +1,6 @@
+About pickingthe gourp： already four（still） and five（not）
+
+
 Monday Monday to check in；
 
 1/2/4 Afternoon online Checkin 
