@@ -4,3 +4,7 @@ Monday Monday to check in；
 8：00/10：00/12：00？ 
 
 1/2 certificate AS photo
+
+
+
+#SQL 触发器 存出过程 
