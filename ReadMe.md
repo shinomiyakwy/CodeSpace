@@ -1,8 +1,8 @@
-1.DataStudio Connection
-  parameter
-    name
-    user：root
-    Database：ID
-  configue local white host
-2.binded instance with locally 
-  file changable interface in browser
+1.gsqp
+  
+2.VNC 
+    login
+3.build where is the running html
+  local server
+  can be packaged
+    
