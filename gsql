@@ -13,5 +13,5 @@ cd /
 
 source gsql_env.sh && gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W '!NCckh30568!' -r
 
-
+cd /var/tools && gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W '!NCckh30568!' -r
 
