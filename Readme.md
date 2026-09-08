@@ -11,6 +11,9 @@ WebSocket ：
   3.webcom indiviudal certificate
     setting port from local host to commit
 
+Node.js image pull
+  there goes docker env
+  docker maybe needed in euler
 
 
 #low agentcy
