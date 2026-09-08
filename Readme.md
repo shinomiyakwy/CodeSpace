@@ -1,3 +1,8 @@
+cat /etc/os-release
+cd /
+
+
+
 mkdir -p /var/tmp/tools
 cd /var/tmp/tools
 
