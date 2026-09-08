@@ -1,4 +1,6 @@
-path /temp/tools
+path /tmp/tools
+cd /tmp/tools
+
 
 1.mycard
   vue-router
