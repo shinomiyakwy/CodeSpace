@@ -1,12 +1,13 @@
-ExceptFronted  
-  1.gsql
-  2.deploy
-  3.node.js
 
-UIelement
-  1.environment
-  2.package 
-  3.this table to commit
-  
-DOM
-  1.make a fronted needed something?
+Mddle-Agent
+  1.curl -o- https://githubusercontent.com | bash
+source ~/.bashrc
+  2.Bounce public IP bingded
+  3.
+
+WebSocket ：
+  1.
+
+
+#low agentcy
+   package localhost
