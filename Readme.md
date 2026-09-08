@@ -1,3 +1,3 @@
-1.be able to have something like interactive
-  have the whole
-2.login page make
+1.mycard
+
+#there goes some problems that cannot be loaded git account original
