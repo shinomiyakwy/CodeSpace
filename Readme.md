@@ -3,7 +3,7 @@ telnet 192.168.0.16 8000
 telnet 192.168.0.16 8000
 
 Private
-gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W !NCckh30568! -r
+gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W '!NCckh30568!' -r
 
 gsql -d gaussdb -h 115.120.251.254 -U dbadmin -p 8000 -W !NCckh30568! -r
 
