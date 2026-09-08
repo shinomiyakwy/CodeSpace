@@ -1,6 +1,7 @@
-1.pg_hba.conf
+1.DWS SQL
 
-2.ping the same vpc
+2.
+
 
 
 ecs-e61f
