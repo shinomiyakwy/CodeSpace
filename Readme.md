@@ -1,8 +1,8 @@
 
 gsql -d <数据库名称> -h <集群地址> -U <数据库用户> -p <数据库端口> -W <集群密码> -r
-internal ip address 192.168.0.78
 
-gsql -d <gauss-ce88_root_0> -h <集群地址> -U <root> -p <8000> -W <!NCckh30568!> -r
+
+gsql -d <gaussdb> -h <115.120.251.254> -U <dbadmin> -p <8000> -W <!NCckh30568!> -r
 
 path /tmp/tools
 cd /tmp/tools
