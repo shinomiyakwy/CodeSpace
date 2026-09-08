@@ -1,3 +1,9 @@
+RedHat
+mkdir -p /var/tools
+cd /var/tools
+
+weget https://obs.cn-north-1.myhuaweicloud.com/dws/download/dws_client_9.1.1_redhat_x64.zip && unzip dws_client_9.1.1_redhat_x64.zip
+
 cat /etc/os-release
 cd /
 
