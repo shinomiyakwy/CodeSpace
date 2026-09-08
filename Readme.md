@@ -2,7 +2,5 @@
 
 
 
-
-2.Create the fronted
-  tauri
+2.deploy node.js
   
