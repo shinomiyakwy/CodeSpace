@@ -1,28 +1,13 @@
-   IPv4 地址 . . . . . . . . . . . . : 172.20.10.2
-   子网掩码  . . . . . . . . . . . . : 255.255.255.240
-   默认网关. . . . . . . . . . . . . : fe80::242a:eaff:fe62:d264%13
-                                       172.20.10.1
+Connection to 192.168.0.14:8000 refused. Checkthat the hostname and port are correct and thatthe postmaster is accepti
+
+接下来，添加一个 JDBC URL 模板，名称可以为任意（此处就叫“JDBC”），
+模板为：jdbc:postgresql://{host}:{port}/{database}{user}{password}
+这样做是因为，DataGrip 只会要求用户填写已经在模板中出现的参数，比如 {host}、{port}、{database}、{user}、{password}，
+它会根据模板的情况智能生成一个对应的填写表，因此，DBeaver 的模板拿过来是不能使用的。后两个参数不会出现在 URL 当中，只作为引导 DataGrip 生成填写表使用。
 
 
+jdbc:postgresql://{host}:{port}/{database}{user}{password}
 
-局域网网段（手机连接）
-//172.20.10.2
-
-一区 上海 VPC
-//dws
-192.168.0.0/16 (主网段)
-
-
-
-1.从本地连接GaussDBDWS 需要connection？
-2.
-
-
-
-powershell 因为在此系统上禁止运行脚本
-
-//jdbc:gaussdb://<your_host>:<your_port>/<your_database>
-//gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W '!NCckh30568!' -r
-
+jdbc:postgresql://192.168.0.14:8000/gaussdb
 
 jdbc:gaussdb://192.168.0.14:8000/gaussdb
