@@ -1,7 +1,1 @@
-postgresql.jar drive add
-1.test conncetion
-2.open dws instance
-
-tauri env
-
-1.
+powershell 因为在此系统上禁止运行脚本
