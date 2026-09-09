@@ -1,6 +1,7 @@
+Fronted-server-database
+1.server conncetion into database(same vpc)
+2.submit sub table
 
-Figma
-  1.anima menbership price
-  2.responctive 
+1.node.js running on Server
 
-VPN：localhost <-> VPC
+
