@@ -1,2 +1,1 @@
-站点入网
-1.
+jdbc:opengauss:
