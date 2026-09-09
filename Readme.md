@@ -2,4 +2,8 @@ powershell 因为在此系统上禁止运行脚本
 
 
 
-jdbc:gaussdb://<your_host>:<your_port>/<your_database>
+//jdbc:gaussdb://<your_host>:<your_port>/<your_database>
+//gsql -d gaussdb -h 192.168.0.14 -U dbadmin -p 8000 -W '!NCckh30568!' -r
+
+
+jdbc:gaussdb://192.168.0.14:8000/gaussdb
