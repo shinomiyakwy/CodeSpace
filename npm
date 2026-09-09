@@ -1,0 +1,5 @@
+cd P:\Var\Program && Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+
+cd M:\Buttonhoverandclickeffect && Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
